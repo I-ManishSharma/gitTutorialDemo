@@ -1,0 +1,2 @@
+this is a example file for understanding git repo.
+making some changes in this to check other commands of git.
