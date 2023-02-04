@@ -1,2 +1,3 @@
-this is a example file for understanding git repo.
+this is a example file for understanding git repository.
 making some changes in this to check other commands of git.
+making some changes in branch develop.
